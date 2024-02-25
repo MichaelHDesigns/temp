@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/city.scss">
+    <style>
+body {
+    margin: 0;
+    padding: 0;
+    display: flex; /* Use flex container */
+}
+
+.container {
+    width: 10vw; /* 50% of the viewport width for each scene */
+    height: 10vh; /* 100% of the viewport height */
+    position: relative;
+    overflow: hidden;
+}
+
+.container canvas {
+    width: 10%; /* 100% of the container width */
+    height: 10%; /* 100% of the container height */
+    object-fit: cover;
+}
+    </style>
+    <title>HTH City</title>
+</head>
+<body>
+    <div class="container" id="container1">
+        <div class="info">
+            <p>HTH City</p>
+            <p>Return to HTH World</p>
+        </div>
+        <canvas id="city-canvas"></canvas>
+    </div>
+
+    <script type="module" src="../js/city.js"></script>
+</body>
+</html>

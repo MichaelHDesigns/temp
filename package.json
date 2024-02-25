@@ -1,0 +1,51 @@
+{
+  "repository": "#",
+  "license": "UNLICENSED",
+  "author": "Anderson Mancini <andersonmancini30@gmail.com> (https://twitter.com/Andersonmancini)",
+  "scripts": {
+    "build": "webpack --config ./bundler/webpack.prod.js",
+    "start": "webpack serve --config ./bundler/webpack.prod.js",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-loader": "^8.2.3",
+    "clean-webpack-plugin": "^4.0.0",
+    "connect-history-api-fallback": "^2.0.0",
+    "copy-webpack-plugin": "^9.0.1",
+    "css-loader": "^6.5.0",
+    "file-loader": "^6.2.0",
+    "gsap": "^3.12.5",
+    "html-loader": "^3.1.2",
+    "html-webpack-plugin": "^5.5.0",
+    "lil-gui": "^0.11.0",
+    "mini-css-extract-plugin": "^2.4.3",
+    "portfinder-sync": "0.0.2",
+    "postcss-html": "^1.5.0",
+    "postcss-scss": "^4.0.5",
+    "raw-loader": "^4.0.2",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^6.22.0",
+    "react-three-fiber": "^6.0.13",
+    "sass": "^1.56.1",
+    "style-loader": "^3.3.1",
+    "stylelint": "^14.15.0",
+    "stylelint-config-html": "^1.1.0",
+    "stylelint-config-prettier": "^9.0.4",
+    "stylelint-config-recommended": "^9.0.0",
+    "stylelint-config-recommended-vue": "^1.4.0",
+    "stylelint-config-standard": "^29.0.0",
+    "stylelint-order": "^5.0.0",
+    "three": "^0.134.0",
+    "typescript": "^4.6.4",
+    "vue-router": "^4.2.5",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0",
+    "webpack-merge": "^5.8.0"
+  }
+}

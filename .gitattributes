@@ -1,0 +1,2 @@
+src/models/gltf/marrakesh.glb filter=lfs diff=lfs merge=lfs -text
+src/models/gltf/mexico.glb filter=lfs diff=lfs merge=lfs -text
