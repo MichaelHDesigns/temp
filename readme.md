@@ -1,58 +1,49 @@
-# Ektogamat ThreeJS Boilerplate
-<h4>by Anderson Mancini</h4>
+# HTH World
 
-<p align="center">
-    <img src="./static/cover.jpg" width="100%"/>
-</p>
+Help The Homeless Worldwide A NJ Nonprofit Corporation
 
-# Introduction
-This is a three.js starter project with only 120 lines.
+## Description
 
-But why create another threejs boilerplate when there are already so many out there?
+HTH World is an application developed by Help The Homeless Worldwide, a NJ Nonprofit Corporation. The application aims to help the homeless worldwide.
 
-When I started, I had a hard time finding something simple and written in VanillaJS that would allow, with just a few lines of code, to import a model and have something functional on the screen. Also, most of the examples that exist in the threejs documentation need to be in this framework for them to work just by copying and pasting the code.
+## Features
 
-So I decided to share this starter project that tries to make things a little easier. This uses a very basic setup of Node.js to make it easier to install project dependencies and also webpack to make development easier.
+COMING SOON!!
 
-I think this would be very useful for web developers, who are trying to get started with threejs. In the source file, which is all documented, you can understand the basic structure of a project in threejs.
+## Getting Started
 
-Resources: [Threejs](https://threejs.org/), [WebGL](https://github.com/KhronosGroup/WebGL), [webpack](https://webpack.js.org/) , [Babel](https://babeljs.io/ ), [ESLint](https://eslint.org/)
+To get started with HTH World, follow these steps:
 
-# Show, don't tell 
-Here you can see a video on how to use this
-<a href="https://www.youtube.com/embed/qM6Ih_cC6Gc" target="_blank"><img src="./static/youtube.png" width="100%"/></a>
+1. Clone the repository: `git clone https://github.com/MichaelHDesigns/temp.git`
+2. cd temp
+3. Install dependencies: `npm install`
+4. Run the development server: `npm run dev`
 
-# Getting Started
-Download and install Node.js on your computer (https://nodejs.org/en/download/).
+## Licenses
 
-Then, open VSCODE, drag the project folder to it. Open VSCODE terminal and install dependencies (you need to do this only in the first time)
-```
-npm install
-```
-
-Run this command in your terminal to open a local server at localhost:8080
-```
-npm run dev
-```
-
-# Debug interface
-<img src="./static/debug.jpg" width="100%"/>
-You can enable a debug interface by getting the contents of "debug.js" file and place it in the end of the main file. This will give you some interface to change things like colors and light position, which can be very useful when you change the model to something else.
-
-# Some projects developed using this
-- https://neotix.com.br/vitrine-virtual/
-- https://rava-cycle-neotix.glitch.me/
-- https://vitamine-se.glitch.me/
-- https://neotix.com.br/promo_havaianas/
-- https://realestate-neotix.vercel.app/
-- https://windland-neotix.vercel.app/
-- https://dna-chain.vercel.app/
-- http://houses-neotix.vercel.app/
-- https://fgr-implantacao.vercel.app/
-- https://metaverse-event.vercel.app/
+"New York City. Manhattan" (https://skfb.ly/6VWw9) by truekit is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 
-# Notes
-Would be really appreciated if you are willing to give me a star here on GitHub 🎉 or buy me a coffee ☕ https://www.buymeacoffee.com/andersonmancini. The money will be used to produce more content about threejs or to buy new courses.
 
-I plan to add more functionality to this over time, like the ability to use advanced controls, particle systems, etc. If you have any questions or somewhere I can do better, welcome to send an <a href="mailto:andersonmancini30@gmail.com">e-mail</a> to me 🙏
+"Hamburg City District 3D Scan" (https://skfb.ly/6UzMQ) by Laslo.S is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+"Paseo de la Reforma, CDMX" (https://skfb.ly/oGS6J) by Ricardo Garnica is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+"La Martiniere Lucknow" (https://skfb.ly/6XxZq) by AEROMAPS INDIA is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+"URS27華山大草原 / Huashan1914" (https://skfb.ly/6XMZF) by yuuichi_arch is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+"Sydney Opera House" (https://skfb.ly/oxRxL) by Tanya Shkredova is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+"Marrakesh streets" (https://skfb.ly/oHvCI) by 333DDD is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
